@@ -1,10 +1,10 @@
-# Video Games YouTube Project
+# Video Games Sales Project
 
 ## Project Description
-This project analyzes YouTube data related to video games. It extracts insights from YouTube videos, such as trends, popular games, and engagement metrics, to understand how video games perform on the platform.
+This project analyzes Youtube data related to video games. It extracts insights from YouTube videos, such as trends, popular games, and engagement metrics, to understand how video games perform on the platform.
 
 ## Features
-- Data extraction from YouTube
+- Data extraction from Youtube
 - Analysis of video engagement (views, likes, comments, etc.)
 - Trend analysis of video games
 - Visualization of key insights
